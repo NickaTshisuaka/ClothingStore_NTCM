@@ -13,36 +13,41 @@
 }
 
 .Firstheading-section{
-    border: 3px solid rgba(196, 10, 10, 0.582);
+    border: 3px solid rgba(255, 255, 255, 0.582);
     width: 69%;
     height: 14vh;
     margin-left: 340px;
 }
 
 .bckgroundimg-section{
-    border: 3px solid rgba(196, 63, 10, 0.582);
+    /* border: 3px solid rgba(196, 63, 10, 0.582); */
     width: 69%;
-    height: 100vh;
+    height: 104vh;
     margin-left: 340px;
-    margin-top: 1%;
+    margin-top: -1px;
+   
 }
 
-
+.img-section{
+    width: 100%;
+}
 
 .maintext-section{
-    border: 3px solid rgba(10, 196, 10, 0.582);
-    width: 29%;
-    height: 34vh;
-    margin-left: 374px;
-    margin-top: -530px;
+    /* border: 3px solid rgba(10, 196, 10, 0.582); */
+    width: 30%;
+    height: 45vh;
+    margin-left: 372px;
+    margin-top: -591px;
+    position: absolute;
+    z-index: 1;
 }
 
 .eightimg-section{
     border: 3px solid rgba(196, 63, 10, 0.582);
     width: 69%;
-    height: 100vh;
+    height: 113vh;
     margin-left: 340px;
-    margin-top: 370px;
+    margin-top: -7px;
 }
 
 .thesubscribe-section{
@@ -84,3 +89,173 @@
     font-size: 24px;
 }
 
+.Thefirst-heading{
+    font-size: 64px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 1px;
+    margin-right: 10px;
+}
+
+.Thesecond-heading{
+    font-size: 36px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 1px;
+    margin-right: 10px;
+}
+
+.Theshopnow-buttton{
+   background-color: black;
+   width: 39%;
+   height: 9vh;
+   margin-top: 4%;
+   margin-left: 2px;
+   padding-top: 3%;
+}
+
+.shopnow-part{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+    padding-left: 22px;
+}
+
+.Theshopnow-section :hover{
+    background-color: rgb(175, 175, 175);
+    width: 39%;
+    height: 9vh;
+    color: black;
+}
+
+.items-part{
+    /* border: 3px solid rgba(196, 10, 10, 0.582); */
+    width: 10%;
+    height: 8vh;
+    margin-left: 340px;
+}
+
+.items-section{
+    color: grey;
+    padding-top: 5%;
+    font-family: "Montserrat", sans-serif;
+}
+
+.firstfourimg-part{
+    /* border: 3px solid rgb(255, 73, 1); */
+    width: 100%;
+    height: 44vh;
+}
+
+.imgA{
+    width: 207px;
+    filter: grayscale(74%);
+}
+
+.Thenamepart{
+    /* border: 3px solid rgb(61, 31, 20); */
+    width: 207px;
+    height: 10vh;
+    margin-top: 14px;
+}
+
+
+.Name-part{
+    font-family: "Montserrat", sans-serif;
+}
+
+.price-part{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    padding-top: -2%;
+}
+
+.Secondfourimg-part{
+    margin-left: 241px;
+    margin-top: -335px;
+}
+
+.Thesecondnamepart{
+    margin-left: 241px;
+    /* border: 3px solid rgb(61, 31, 20); */
+    width: 207px;
+    height: 10vh;
+    margin-top: 16px;
+}
+
+.thirdfourimg-part{
+    margin-left: 480px;
+    margin-top: -335px;
+}
+
+.Thethirdnamepart{
+    margin-left: 480px;
+    /* border: 3px solid rgb(61, 31, 20); */
+    width: 207px;
+    height: 10vh;
+    margin-top: 16px;
+}
+
+.fourimg-part{
+    margin-left: 719px;
+    margin-top: -335px;
+}
+
+.Thefourthnamepart{
+    margin-left: 719px;
+    /* border: 3px solid rgb(61, 31, 20); */
+    width: 207px;
+    height: 10vh;
+    margin-top: 16px;
+}
+
+.Thefifthnamepart{
+    padding-top: 2%;
+}
+
+.sixthimg-part{
+    margin-left: 241px;
+    margin-top: -322px;
+}
+
+.Thesixthnamepart{
+    margin-left: 241px;
+    /* border: 3px solid rgb(61, 31, 20); */
+    width: 207px;
+    height: 10vh;
+    margin-top: 16px;
+}
+
+.seventhimg-part{
+    margin-left: 480px;
+    margin-top: -335px;
+}
+
+.Theseventhnamepart{
+    margin-left: 480px;
+    /* border: 3px solid rgb(61, 31, 20); */
+    width: 207px;
+    height: 10vh;
+    margin-top: 16px;
+}
+   
+.eighthimg-part{
+    margin-left: 719px;
+    margin-top: -335px;
+}
+
+.Theeighthnamepart{
+    margin-left: 719px;
+    /* border: 3px solid rgb(61, 31, 20); */
+    width: 207px;
+    height: 10vh;
+    margin-top: 16px; 
+}
+
+/* .thenew-part{
+    border: 3px solid navy;
+    width: 7%;
+    height: 5vh;
+    margin-top: -37%;
+} */
