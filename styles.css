@@ -1,0 +1,260 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.sidenavbar-section{
+    border: 3px solid blue;
+    width: 24%;
+    height: 100vh;
+    position: fixed;
+}
+
+.Firstheading-section{
+    border: 3px solid rgba(196, 10, 10, 0.582);
+    width: 69%;
+    height: 14vh;
+    margin-left: 340px;
+}
+
+.bckgroundimg-section{
+    border: 3px solid rgba(196, 63, 10, 0.582);
+    width: 69%;
+    height: 100vh;
+    margin-left: 340px;
+    margin-top: 1%;
+}
+
+
+
+.maintext-section{
+    border: 3px solid rgba(10, 196, 10, 0.582);
+    width: 29%;
+    height: 34vh;
+    margin-left: 374px;
+    margin-top: -530px;
+}
+
+.eightimg-section{
+    border: 3px solid rgba(196, 63, 10, 0.582);
+    width: 69%;
+    height: 100vh;
+    margin-left: 340px;
+    margin-top: 370px;
+}
+
+.thesubscribe-section{
+    border: 3px solid rgba(196, 10, 10, 0.582);
+    width: 72%;
+    height: 49vh;
+    margin-left: 326px;
+}
+
+.thecontact-section{
+    border: 3px solid rgba(190, 10, 196, 0.582);
+    width: 72%;
+    height: 76vh;
+    margin-left: 326px;
+}
+
+.thefooter-section{
+    border: 3px solid rgba(196, 10, 10, 0.582);
+    width: 72%;
+    height: 15vh;
+    margin-left: 326px;
+}
+
+.Thejeans-text{
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 10px;
+}
+
+.cart-icon{
+    margin-top: -5%;
+    margin-left: 850px;
+    font-size: 24px;
+}
+
+.search-icon{
+    margin-top: -36px;
+    margin-left: 895px;
+    font-size: 24px;
+}
+/*Navbar*/
+.navbar {
+    width: 328px;
+    height: 99.99vh;
+    padding: 20px;
+    background-color: white;
+    position: fixed;
+}
+.nav{
+    margin-left: 11vh;
+    margin-top: 2vh;
+}
+.logo {
+    font-size: 30px;
+    font-weight: lighter;
+    margin-bottom: 45%;
+}
+.nav-item {
+    display: block;
+    color: gray;
+    font-size: 21px;
+    text-decoration: none;
+    margin: 15px 0;
+}
+.nav-item:hover{
+    color: black;
+    background-color: lightgray;
+}
+.nav-item.active {
+    font-weight: bold;
+    color: black;
+}
+.dropdown {
+    display: inline;
+    font-weight: bold;
+}
+.nav-item2{
+    text-decoration: none;
+    margin: 15px 0;
+    display: block;
+    color: gray;
+
+}
+.footer1 {
+
+    margin-top: 50%;
+}
+/*subscribe*/ 
+.subscribe0{
+    background-color: black;
+    color: white;
+    height: 48.3vh;
+    width: 150.9vh;
+}
+.subscribe0 h1{
+    font-weight: 100;
+    margin: 0%;
+    padding-top: 5%;
+    padding-left: 2%;
+}
+.subscribe0 P{
+    margin: 2%;
+}
+.subscribe0 input{
+   margin-left: 2%;
+    height: 13%;
+    width: 95%;
+    margin-top: 2%;
+}
+.subscribe0 button{
+    width: 18vh;
+    margin: 2%;
+    height: 6vh;
+    color: white;
+    background-color: #f44336;
+    font-size: 16px;
+    border: none;
+}
+ button:hover{
+    background-color: rgb(170, 165, 165);
+    cursor: pointer;
+}
+/*contact*/
+.thecontact-section2{
+    margin-top: 4%;
+   
+}
+.contact{
+    width: 149.25vh;
+    height: 90vh;
+     background-color: #f1f1f1;
+     display: flex;
+     justify-content: center;
+     margin-top: 5%;
+     margin-left: 60vh;
+     
+}
+.contactcontact{
+    width: 25%;
+    height: 20%;
+    margin-left: 4%;
+}
+.h3{
+    font-size: 23px;
+    margin-bottom: 13%;
+    margin-top: 40%;
+    margin-left: 40%;
+}
+.contactcontact p{
+    margin-left: 30%;
+}
+.contactcontact button{
+    margin-top: 8%;
+    width:46vh;
+    height: 5.5vh;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.contact input{
+    padding-right: 60%;
+    margin-top: 8%;
+    border: 1px solid lightgray;
+    width: 46vh;
+    height: 5.5vh;
+}
+.contactabout{
+    width: 20%;
+    margin-left: 17%;
+    padding-bottom: 5%;
+    margin-top: 2%;
+   
+}
+.contactabout p{
+    font-size: 25px;
+    margin-bottom: 3%;
+    margin-left: 11%;
+    margin-top: 40%;
+}
+
+.contactabout a{
+    color: rgb(8, 8, 8);
+    opacity: 70%;
+   position: absolute;
+   left: 34%;
+  padding-top: 1.5%;
+  font-size: 14px;
+}
+.S1{
+    font-size: 25px;
+    margin-top: 14.5vh;
+    
+    margin-bottom: 24%;
+}
+.A1{
+    font-size: 25px;   
+   
+}
+/*footer*/
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 145vh;
+    
+   padding: 3%;
+   margin-top: 2%;
+}
+.footer a{
+    color: white;
+}
+.footer a:hover{
+    opacity: 70%;
+    cursor: pointer;
+}
