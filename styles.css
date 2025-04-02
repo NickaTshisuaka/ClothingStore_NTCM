@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.sidenavbar-section{
+    border: 3px solid blue;
+    width: 24%;
+    height: 100vh;
+    position: fixed;
+}
+
+.Firstheading-section{
+    border: 3px solid rgba(196, 10, 10, 0.582);
+    width: 69%;
+    height: 14vh;
+    margin-left: 340px;
+}
+
+.bckgroundimg-section{
+    border: 3px solid rgba(196, 63, 10, 0.582);
+    width: 69%;
+    height: 100vh;
+    margin-left: 340px;
+    margin-top: 1%;
+}
+
+
+
+.maintext-section{
+    border: 3px solid rgba(10, 196, 10, 0.582);
+    width: 29%;
+    height: 34vh;
+    margin-left: 374px;
+    margin-top: -530px;
+}
+
+.eightimg-section{
+    border: 3px solid rgba(196, 63, 10, 0.582);
+    width: 69%;
+    height: 100vh;
+    margin-left: 340px;
+    margin-top: 370px;
+}
+
+.thesubscribe-section{
+    border: 3px solid rgba(196, 10, 10, 0.582);
+    width: 72%;
+    height: 49vh;
+    margin-left: 326px;
+}
+
+.thecontact-section{
+    border: 3px solid rgba(190, 10, 196, 0.582);
+    width: 72%;
+    height: 76vh;
+    margin-left: 326px;
+}
+
+.thefooter-section{
+    border: 3px solid rgba(196, 10, 10, 0.582);
+    width: 72%;
+    height: 15vh;
+    margin-left: 326px;
+}
+
+.Thejeans-text{
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 10px;
+}
+
+.cart-icon{
+    margin-top: -5%;
+    margin-left: 850px;
+    font-size: 24px;
+}
+
+.search-icon{
+    margin-top: -36px;
+    margin-left: 895px;
+    font-size: 24px;
+}
+
