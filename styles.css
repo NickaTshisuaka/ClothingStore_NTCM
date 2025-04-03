@@ -141,6 +141,7 @@
    
 }
 .Firstheading-section{
+    border: 3px solid rgba(196, 10, 10, 0.582);
     border: 3px solid rgba(255, 255, 255, 0.582);
     width: 69%;
     height: 14vh;
@@ -148,6 +149,21 @@
 }
 
 .bckgroundimg-section{
+    border: 3px solid rgba(196, 63, 10, 0.582);
+    width: 69%;
+    height: 100vh;
+    margin-left: 340px;
+    margin-top: 1%;
+}
+
+
+
+.maintext-section{
+    border: 3px solid rgba(10, 196, 10, 0.582);
+    width: 29%;
+    height: 34vh;
+    margin-left: 374px;
+    margin-top: -530px;
     /* border: 3px solid rgba(196, 63, 10, 0.582); */
     width: 69%;
     height: 104vh;
@@ -173,6 +189,9 @@
 .eightimg-section{
     /* border: 3px solid rgba(196, 63, 10, 0.582); */
     width: 69%;
+    height: 100vh;
+    margin-left: 340px;
+    margin-top: 370px;
     height: 113vh;
     margin-left: 340px;
     margin-top: -7px;
