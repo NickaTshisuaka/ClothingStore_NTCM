@@ -52,13 +52,12 @@
     padding-top: 12%;
 }
 
-.dress-section :hover{
-    width: 150%;
-    height: 6vh;
+.dress-part:hover{
+    
     background-color: rgb(216, 215, 215); 
     color: black;
-    padding-left: 6%;
-    padding-top: 2%;
+    /* padding-left: 6%;
+    padding-top: 2%; */
 }
     
 
@@ -135,12 +134,11 @@
     font-size: 14px;
 }
 
-.shirt-section :hover{
-    width: 150%;
-    height: 6vh;
-    background-color: rgb(216, 215, 215); 
+.shirt-part :hover{
+   
+    background-color: rgb(165, 163, 163); 
     color: black;
-    padding-left: 6%;
+   
 }
 .Firstheading-section{
     border: 3px solid rgba(255, 255, 255, 0.582);
